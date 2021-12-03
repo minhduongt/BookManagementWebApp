@@ -1,0 +1,105 @@
+D:\VS.NET\FU\BookManagementLib\bin\Debug\net5.0\BookManagementLib.deps.json
+D:\VS.NET\FU\BookManagementLib\bin\Debug\net5.0\BookManagementLib.dll
+D:\VS.NET\FU\BookManagementLib\bin\Debug\net5.0\ref\BookManagementLib.dll
+D:\VS.NET\FU\BookManagementLib\bin\Debug\net5.0\BookManagementLib.pdb
+D:\VS.NET\FU\BookManagementLib\obj\Debug\net5.0\BookManagementLib.csprojAssemblyReference.cache
+D:\VS.NET\FU\BookManagementLib\obj\Debug\net5.0\BookManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS.NET\FU\BookManagementLib\obj\Debug\net5.0\BookManagementLib.AssemblyInfoInputs.cache
+D:\VS.NET\FU\BookManagementLib\obj\Debug\net5.0\BookManagementLib.AssemblyInfo.cs
+D:\VS.NET\FU\BookManagementLib\obj\Debug\net5.0\BookManagementLib.csproj.CoreCompileInputs.cache
+D:\VS.NET\FU\BookManagementLib\obj\Debug\net5.0\BookManagementLib.dll
+D:\VS.NET\FU\BookManagementLib\obj\Debug\net5.0\ref\BookManagementLib.dll
+D:\VS.NET\FU\BookManagementLib\obj\Debug\net5.0\BookManagementLib.pdb
+D:\VS.NET\FU\BookManagementLib\bin\Debug\net5.0\BookManagementLib.runtimeconfig.json
+D:\VS.NET\FU\BookManagementLib\bin\Debug\net5.0\BookManagementLib.runtimeconfig.dev.json
+D:\VS.NET\FU\BookManagementLib\obj\Debug\net5.0\BookManagementLib.genruntimeconfig.cache
+D:\VS.NET\PRN_asm\BookManagementLib\bin\Debug\net5.0\BookManagementLib.deps.json
+D:\VS.NET\PRN_asm\BookManagementLib\bin\Debug\net5.0\BookManagementLib.runtimeconfig.json
+D:\VS.NET\PRN_asm\BookManagementLib\bin\Debug\net5.0\BookManagementLib.runtimeconfig.dev.json
+D:\VS.NET\PRN_asm\BookManagementLib\bin\Debug\net5.0\BookManagementLib.dll
+D:\VS.NET\PRN_asm\BookManagementLib\bin\Debug\net5.0\ref\BookManagementLib.dll
+D:\VS.NET\PRN_asm\BookManagementLib\bin\Debug\net5.0\BookManagementLib.pdb
+D:\VS.NET\PRN_asm\BookManagementLib\obj\Debug\net5.0\BookManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS.NET\PRN_asm\BookManagementLib\obj\Debug\net5.0\BookManagementLib.AssemblyInfoInputs.cache
+D:\VS.NET\PRN_asm\BookManagementLib\obj\Debug\net5.0\BookManagementLib.AssemblyInfo.cs
+D:\VS.NET\PRN_asm\BookManagementLib\obj\Debug\net5.0\BookManagementLib.csproj.CoreCompileInputs.cache
+D:\VS.NET\PRN_asm\BookManagementLib\obj\Debug\net5.0\BookManagementLib.dll
+D:\VS.NET\PRN_asm\BookManagementLib\obj\Debug\net5.0\ref\BookManagementLib.dll
+D:\VS.NET\PRN_asm\BookManagementLib\obj\Debug\net5.0\BookManagementLib.pdb
+D:\VS.NET\PRN_asm\BookManagementLib\obj\Debug\net5.0\BookManagementLib.genruntimeconfig.cache
+C:\Users\Steve\Downloads\PRN-main\PRN-main\BookManagementLib\bin\Debug\net5.0\BookManagementLib.deps.json
+C:\Users\Steve\Downloads\PRN-main\PRN-main\BookManagementLib\bin\Debug\net5.0\BookManagementLib.runtimeconfig.json
+C:\Users\Steve\Downloads\PRN-main\PRN-main\BookManagementLib\bin\Debug\net5.0\BookManagementLib.runtimeconfig.dev.json
+C:\Users\Steve\Downloads\PRN-main\PRN-main\BookManagementLib\bin\Debug\net5.0\BookManagementLib.dll
+C:\Users\Steve\Downloads\PRN-main\PRN-main\BookManagementLib\bin\Debug\net5.0\ref\BookManagementLib.dll
+C:\Users\Steve\Downloads\PRN-main\PRN-main\BookManagementLib\bin\Debug\net5.0\BookManagementLib.pdb
+C:\Users\Steve\Downloads\PRN-main\PRN-main\BookManagementLib\obj\Debug\net5.0\BookManagementLib.csprojAssemblyReference.cache
+C:\Users\Steve\Downloads\PRN-main\PRN-main\BookManagementLib\obj\Debug\net5.0\BookManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\Downloads\PRN-main\PRN-main\BookManagementLib\obj\Debug\net5.0\BookManagementLib.AssemblyInfoInputs.cache
+C:\Users\Steve\Downloads\PRN-main\PRN-main\BookManagementLib\obj\Debug\net5.0\BookManagementLib.AssemblyInfo.cs
+C:\Users\Steve\Downloads\PRN-main\PRN-main\BookManagementLib\obj\Debug\net5.0\BookManagementLib.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Downloads\PRN-main\PRN-main\BookManagementLib\obj\Debug\net5.0\BookManagementLib.dll
+C:\Users\Steve\Downloads\PRN-main\PRN-main\BookManagementLib\obj\Debug\net5.0\ref\BookManagementLib.dll
+C:\Users\Steve\Downloads\PRN-main\PRN-main\BookManagementLib\obj\Debug\net5.0\BookManagementLib.pdb
+C:\Users\Steve\Downloads\PRN-main\PRN-main\BookManagementLib\obj\Debug\net5.0\BookManagementLib.genruntimeconfig.cache
+D:\VS.NET\PRN_asm\BookManagementLib\obj\Debug\net5.0\BookManagementLib.csprojAssemblyReference.cache
+C:\Users\triet\Desktop\PRN-main\BookManagementLib\bin\Debug\net5.0\BookManagementLib.deps.json
+C:\Users\triet\Desktop\PRN-main\BookManagementLib\bin\Debug\net5.0\BookManagementLib.runtimeconfig.json
+C:\Users\triet\Desktop\PRN-main\BookManagementLib\bin\Debug\net5.0\BookManagementLib.runtimeconfig.dev.json
+C:\Users\triet\Desktop\PRN-main\BookManagementLib\bin\Debug\net5.0\BookManagementLib.dll
+C:\Users\triet\Desktop\PRN-main\BookManagementLib\bin\Debug\net5.0\ref\BookManagementLib.dll
+C:\Users\triet\Desktop\PRN-main\BookManagementLib\bin\Debug\net5.0\BookManagementLib.pdb
+C:\Users\triet\Desktop\PRN-main\BookManagementLib\obj\Debug\net5.0\BookManagementLib.csproj.AssemblyReference.cache
+C:\Users\triet\Desktop\PRN-main\BookManagementLib\obj\Debug\net5.0\BookManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\triet\Desktop\PRN-main\BookManagementLib\obj\Debug\net5.0\BookManagementLib.AssemblyInfoInputs.cache
+C:\Users\triet\Desktop\PRN-main\BookManagementLib\obj\Debug\net5.0\BookManagementLib.AssemblyInfo.cs
+C:\Users\triet\Desktop\PRN-main\BookManagementLib\obj\Debug\net5.0\BookManagementLib.csproj.CoreCompileInputs.cache
+C:\Users\triet\Desktop\PRN-main\BookManagementLib\obj\Debug\net5.0\BookManagementLib.dll
+C:\Users\triet\Desktop\PRN-main\BookManagementLib\obj\Debug\net5.0\ref\BookManagementLib.dll
+C:\Users\triet\Desktop\PRN-main\BookManagementLib\obj\Debug\net5.0\BookManagementLib.pdb
+C:\Users\triet\Desktop\PRN-main\BookManagementLib\obj\Debug\net5.0\BookManagementLib.genruntimeconfig.cache
+C:\Users\Steve\OneDrive\Desktop\ASPNetCoreGroupProject\BookManagementLib\bin\Debug\net5.0\BookManagementLib.deps.json
+C:\Users\Steve\OneDrive\Desktop\ASPNetCoreGroupProject\BookManagementLib\bin\Debug\net5.0\BookManagementLib.runtimeconfig.json
+C:\Users\Steve\OneDrive\Desktop\ASPNetCoreGroupProject\BookManagementLib\bin\Debug\net5.0\BookManagementLib.runtimeconfig.dev.json
+C:\Users\Steve\OneDrive\Desktop\ASPNetCoreGroupProject\BookManagementLib\bin\Debug\net5.0\BookManagementLib.dll
+C:\Users\Steve\OneDrive\Desktop\ASPNetCoreGroupProject\BookManagementLib\bin\Debug\net5.0\ref\BookManagementLib.dll
+C:\Users\Steve\OneDrive\Desktop\ASPNetCoreGroupProject\BookManagementLib\bin\Debug\net5.0\BookManagementLib.pdb
+C:\Users\Steve\OneDrive\Desktop\ASPNetCoreGroupProject\BookManagementLib\obj\Debug\net5.0\BookManagementLib.csprojAssemblyReference.cache
+C:\Users\Steve\OneDrive\Desktop\ASPNetCoreGroupProject\BookManagementLib\obj\Debug\net5.0\BookManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\OneDrive\Desktop\ASPNetCoreGroupProject\BookManagementLib\obj\Debug\net5.0\BookManagementLib.AssemblyInfoInputs.cache
+C:\Users\Steve\OneDrive\Desktop\ASPNetCoreGroupProject\BookManagementLib\obj\Debug\net5.0\BookManagementLib.AssemblyInfo.cs
+C:\Users\Steve\OneDrive\Desktop\ASPNetCoreGroupProject\BookManagementLib\obj\Debug\net5.0\BookManagementLib.csproj.CoreCompileInputs.cache
+C:\Users\Steve\OneDrive\Desktop\ASPNetCoreGroupProject\BookManagementLib\obj\Debug\net5.0\BookManagementLib.dll
+C:\Users\Steve\OneDrive\Desktop\ASPNetCoreGroupProject\BookManagementLib\obj\Debug\net5.0\ref\BookManagementLib.dll
+C:\Users\Steve\OneDrive\Desktop\ASPNetCoreGroupProject\BookManagementLib\obj\Debug\net5.0\BookManagementLib.pdb
+C:\Users\Steve\OneDrive\Desktop\ASPNetCoreGroupProject\BookManagementLib\obj\Debug\net5.0\BookManagementLib.genruntimeconfig.cache
+C:\Users\Steve\OneDrive\Desktop\New folder\BookManagementLib\bin\Debug\net5.0\BookManagementLib.deps.json
+C:\Users\Steve\OneDrive\Desktop\New folder\BookManagementLib\bin\Debug\net5.0\BookManagementLib.runtimeconfig.json
+C:\Users\Steve\OneDrive\Desktop\New folder\BookManagementLib\bin\Debug\net5.0\BookManagementLib.runtimeconfig.dev.json
+C:\Users\Steve\OneDrive\Desktop\New folder\BookManagementLib\bin\Debug\net5.0\BookManagementLib.dll
+C:\Users\Steve\OneDrive\Desktop\New folder\BookManagementLib\bin\Debug\net5.0\ref\BookManagementLib.dll
+C:\Users\Steve\OneDrive\Desktop\New folder\BookManagementLib\bin\Debug\net5.0\BookManagementLib.pdb
+C:\Users\Steve\OneDrive\Desktop\New folder\BookManagementLib\obj\Debug\net5.0\BookManagementLib.csprojAssemblyReference.cache
+C:\Users\Steve\OneDrive\Desktop\New folder\BookManagementLib\obj\Debug\net5.0\BookManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\OneDrive\Desktop\New folder\BookManagementLib\obj\Debug\net5.0\BookManagementLib.AssemblyInfoInputs.cache
+C:\Users\Steve\OneDrive\Desktop\New folder\BookManagementLib\obj\Debug\net5.0\BookManagementLib.AssemblyInfo.cs
+C:\Users\Steve\OneDrive\Desktop\New folder\BookManagementLib\obj\Debug\net5.0\BookManagementLib.csproj.CoreCompileInputs.cache
+C:\Users\Steve\OneDrive\Desktop\New folder\BookManagementLib\obj\Debug\net5.0\BookManagementLib.dll
+C:\Users\Steve\OneDrive\Desktop\New folder\BookManagementLib\obj\Debug\net5.0\ref\BookManagementLib.dll
+C:\Users\Steve\OneDrive\Desktop\New folder\BookManagementLib\obj\Debug\net5.0\BookManagementLib.pdb
+C:\Users\Steve\OneDrive\Desktop\New folder\BookManagementLib\obj\Debug\net5.0\BookManagementLib.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ASPNetCoreGroupProject-triet_upd\BookManagementLib\bin\Debug\net5.0\BookManagementLib.deps.json
+C:\Users\Admin\Desktop\ASPNetCoreGroupProject-triet_upd\BookManagementLib\bin\Debug\net5.0\BookManagementLib.runtimeconfig.json
+C:\Users\Admin\Desktop\ASPNetCoreGroupProject-triet_upd\BookManagementLib\bin\Debug\net5.0\BookManagementLib.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ASPNetCoreGroupProject-triet_upd\BookManagementLib\bin\Debug\net5.0\BookManagementLib.dll
+C:\Users\Admin\Desktop\ASPNetCoreGroupProject-triet_upd\BookManagementLib\bin\Debug\net5.0\ref\BookManagementLib.dll
+C:\Users\Admin\Desktop\ASPNetCoreGroupProject-triet_upd\BookManagementLib\bin\Debug\net5.0\BookManagementLib.pdb
+C:\Users\Admin\Desktop\ASPNetCoreGroupProject-triet_upd\BookManagementLib\obj\Debug\net5.0\BookManagementLib.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ASPNetCoreGroupProject-triet_upd\BookManagementLib\obj\Debug\net5.0\BookManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ASPNetCoreGroupProject-triet_upd\BookManagementLib\obj\Debug\net5.0\BookManagementLib.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ASPNetCoreGroupProject-triet_upd\BookManagementLib\obj\Debug\net5.0\BookManagementLib.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ASPNetCoreGroupProject-triet_upd\BookManagementLib\obj\Debug\net5.0\BookManagementLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ASPNetCoreGroupProject-triet_upd\BookManagementLib\obj\Debug\net5.0\BookManagementLib.dll
+C:\Users\Admin\Desktop\ASPNetCoreGroupProject-triet_upd\BookManagementLib\obj\Debug\net5.0\ref\BookManagementLib.dll
+C:\Users\Admin\Desktop\ASPNetCoreGroupProject-triet_upd\BookManagementLib\obj\Debug\net5.0\BookManagementLib.pdb
+C:\Users\Admin\Desktop\ASPNetCoreGroupProject-triet_upd\BookManagementLib\obj\Debug\net5.0\BookManagementLib.genruntimeconfig.cache
